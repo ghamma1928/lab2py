@@ -145,7 +145,7 @@ Berikut ini adalah cara meggunakan Python:
    
    `Hasil penjumlahan 8 + 6 = 14`
    
-   `Hasil Pembagian 6 / 8 = 0`
+   `Hasil Pembagian 6 / 8 = 1`
    
    ![Screenshot (49)](https://user-images.githubusercontent.com/115474950/197004437-4b0dd6fb-e390-4237-9fd0-4d652b9cf18b.png)
    
