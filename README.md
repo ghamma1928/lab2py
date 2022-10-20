@@ -37,7 +37,7 @@ Berikut ini adalah cara meggunakan Python:
  
    `print("Hello")`
    
-   _#menampilkan tulisan "Saya sedang belajar python" di layar
+   _#menampilkan tulisan "Saya sedang belajar python" di layar_
    
    `print("Saya sedang belajar python")`
    
@@ -69,11 +69,11 @@ Berikut ini adalah cara meggunakan Python:
    
    `b = 6`
    
-   `print("Variabel a =",a)
+   `print("Variabel a =",a)`
    
-   `print("Variabel b =",b)
+   `print("Variabel b =",b)`
    
-   `print("Hasil penjumlahan a + b =",a+b)
+   `print("Hasil penjumlahan a + b =",a+b)`
    
    ![Screenshot (39)](https://user-images.githubusercontent.com/115474950/196973964-2d2a031c-6fab-4d63-8970-40af83423e81.png)
    
@@ -88,6 +88,75 @@ Berikut ini adalah cara meggunakan Python:
    `Variabel b = 6`
    
    `Hasil penjumlahan a + b = 14`
+   
+   ![Screenshot (43)](https://user-images.githubusercontent.com/115474950/196990844-92b5728b-1ea1-4bd4-9b31-27cbcb7a408f.png)
+
+# LATIHAN 3
+
+1. Buatlah file untuk **latihan 3**
+
+   ![Screenshot (47)](https://user-images.githubusercontent.com/115474950/196999911-2c0615ae-2d1a-4958-9eeb-82a44e2dd1b5.png)
+
+2. Lalu tuliskan kode-kode seperti contoh berikut
+
+   _#input nilai variabel_
+   
+   `a = input("masukan nilai pertama: ")`
+   
+   `b = input("masukan nilai kedua: ")`
+   
+   _#cetak nilai variabel_
+   
+   `print("Variabel a = ", a)`
+   
+   `print("Variabel b = ", b)`
+   
+   _#cetak hasil kedua operasi variabel dengan string dan format_
+   
+   `print("Hasil penggabungan {1} & {0} = ".format(a,b) + str(a)+sar(b))`
+   
+   _konversi nilai variabel
+   
+   `a = int(a);`
+   
+   `b = int(b);`
+   
+   `print("Hasil penjumlahan {1} + {0} = %d".format(a,b) %(a+b))`
+   
+   `print("Hasil pembagian {1} / {0} = %d".format(a,b) %(a/b))`
+   
+   ![Screenshot (48)](https://user-images.githubusercontent.com/115474950/197002273-13ffe769-5926-4d9c-b120-866bfa633487.png)
+   
+3. Lalu klik tombol Run untuk menjalankan yang berada di pojok kanan atas, seperti gambar berikut
+   
+   ![Screenshot (48)_LI](https://user-images.githubusercontent.com/115474950/197002524-39530fe1-f0b9-4b25-a82b-44507201aef8.jpg)
+
+4. Maka akan muncul hasil program yang di jalankan, seperti gambar berikut. Dan jangan lupa untuk memasukan angka 
+   
+   `Masukan nilai pertama : 8`
+   
+   `Masukan nilai kedua: 6`
+   
+   `Variabel a = 8`
+   
+   `Variabel b = 6`
+   
+   `Hasil penggabungan 8 & 6 = 68`
+   
+   `Hasil penjumlahan 8 + 6 = 14`
+   
+   `Hasil Pembagian 6 / 8 = 0`
+   
+   ![Screenshot (49)](https://user-images.githubusercontent.com/115474950/197004437-4b0dd6fb-e390-4237-9fd0-4d652b9cf18b.png)
+   
+   
+   # Jadi seperti itulah contoh cara penggunaan Python, jika ada kesalahan saya mengucapkan mohon maaf. Terima Kasih
+
+   
+   
+   
+   
+   
    
    
 
